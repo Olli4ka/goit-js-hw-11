@@ -1,5 +1,5 @@
 import { GalleryAPI } from './js/api-pixabay.js';
-import { LoadMoreBtn } from './js/loadmoreBtn.js';
+import { LoadMoreBtn } from './js/loadMoreBtn.js';
 import { Notify } from 'notiflix';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
