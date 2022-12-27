@@ -20,6 +20,7 @@ export class GalleryAPI {
     });
     const { data } = await axios(`?${options}`);
     this.page += 1;
+
     return data;
   }
 
